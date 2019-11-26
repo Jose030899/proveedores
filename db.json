@@ -1,0 +1,34 @@
+{
+  "Proveedores": [
+    {
+      "id": 1,
+      "Proveedor": "San Angel",
+      "Direccion": "Emiliano Zapata #105",
+      "Telefono": "4776123789"
+    },
+    {
+      "id": 2,
+      "Proveedor": "Cemex",
+      "Direccion": "Francisco I. Madero #712",
+      "Telefono": "4761234963"
+    },
+    {
+      "id": 3,
+      "Proveedor": "Tabiques Geru",
+      "Direccion": "San jose de otates #2512",
+      "Telefono": "4321657950"
+    },
+    {
+      "id": 4,
+      "Proveedor": "Cemento Cruz Aul",
+      "Direccion": "El Puño #231",
+      "Telefono": "654321785"
+    },
+    {
+      "id": 5,
+      "Proveedor": "Truper",
+      "Direccion": "Avenida Pino Surez #1516",
+      "Telefono": "4776814396"
+    }
+  ]
+}
